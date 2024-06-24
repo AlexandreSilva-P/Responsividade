@@ -1,0 +1,12 @@
+
+img {
+    width: 100%;
+    height: 100%;
+    
+}
+figcaption {
+    color: green;
+}
+table, th, td{ 
+border: 2px solid green;
+    }
